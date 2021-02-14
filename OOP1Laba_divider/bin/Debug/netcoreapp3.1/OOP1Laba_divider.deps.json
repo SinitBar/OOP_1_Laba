@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP1Laba_divider/1.0.0": {
+        "runtime": {
+          "OOP1Laba_divider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP1Laba_divider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
